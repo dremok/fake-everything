@@ -1,2 +1,2 @@
 # fake-everything
-GANs n shit
+GANs n VAEs n shit
