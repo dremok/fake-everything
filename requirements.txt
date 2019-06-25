@@ -8,3 +8,4 @@ Pillow==6.0.0
 tensorflow==1.14.0
 setuptools==41.0.0
 keras-tqdm==2.0.1
+jupyterlab==0.35.6
