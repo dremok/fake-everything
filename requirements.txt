@@ -3,7 +3,7 @@ opencv-python==4.1.0.25
 ipykernel==5.1.1
 jupyter==1.0.0
 seaborn==0.9.0
-Pillow==6.0.0
+Pillow==8.2.0
 setuptools==41.0.0
 jupyterlab==0.35.6
 torch==1.1.0.post2
